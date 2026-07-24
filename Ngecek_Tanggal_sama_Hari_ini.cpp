@@ -1,6 +1,7 @@
-//#include <iostream>
-//#include <ctime>
-#include <bits/stdc++.h>
+#include <iostream>
+#include <ctime>
+//#include <bits/stdc++.h> untuk perkakas yang lebih lengkap
+//match main
 
 int main() {
     // 1. Mengambil waktu sistem saat ini
